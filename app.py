@@ -25,7 +25,7 @@ def reset_table():
 st.title("📊 Team Roster Data Entry")
 st.write("Enter details on the left to populate the master table on the right.")
 
----
+st.divider()
 
 # --- LEFT SIDEBAR: ENTRY FORM ---
 with st.sidebar:
